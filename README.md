@@ -1,7 +1,5 @@
 ### Hi there, I'm Horacio 👋
 
-<br />
-
 ### Languages and Tools:
 <br />
 
